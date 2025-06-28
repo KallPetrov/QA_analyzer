@@ -11,7 +11,7 @@
 
 ### 🖼️ Screenshot
 
-![screenshot](https://via.placeholder.com/1000x300.png?text=Automated+QA+Analyzer+%7C+Hexagon+Lab)
+![screenshot](./screenshot/Automated_QA_Analyzer.jpg)
 
 ---
 
@@ -43,7 +43,7 @@
 ### 📦 Installation
 
 ```bash
-git clone https://github.com/yourname/qa-analyzer.git
+git clone https://github.com/KallPetrov/Qa-analyzer.git
 cd QA_analyzer
 pip install -r requirements.txt
 ```
